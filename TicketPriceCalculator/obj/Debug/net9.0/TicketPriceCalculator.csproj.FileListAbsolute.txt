@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.sourcelink.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\refint\TicketPriceCalculator.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment1-11296303\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
