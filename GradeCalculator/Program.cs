@@ -10,13 +10,13 @@ class Program
             Console.Write("Enter your numerical grade (0 - 100): ");
             string input = Console.ReadLine();
 
-            // Check if input is a valid integer
+            //To Check if input is a valid integer
             if (int.TryParse(input, out grade))
             {
                 // Check if grade is in the correct range
                 if (grade >= 0 && grade <= 100)
                 {
-                    break; // Valid input, exit loop
+                    break;
                 }
                 else
                 {
